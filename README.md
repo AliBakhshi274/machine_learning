@@ -11,7 +11,7 @@ This repository contains all the materials related to my studies and hands-on pr
 
 Here are some of the main projects in this repository:
 
-- [House Price Prediction in Tehran](projects/house-price-prediction)  
+- [House Price Prediction in Tehran](projects/house-price-predictor-tehran)  
   Predicts real estate prices in Tehran using regression models and data preprocessing.
 
 ## Resources
